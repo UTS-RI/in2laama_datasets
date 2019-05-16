@@ -1,0 +1,4 @@
+infrastructure_lab/lidar.bin filter=lfs diff=lfs merge=lfs -text
+staircase/lidar.bin filter=lfs diff=lfs merge=lfs -text
+staircase/imu.bag filter=lfs diff=lfs merge=lfs -text
+infrastructure_lab/imu.bag filter=lfs diff=lfs merge=lfs -text
