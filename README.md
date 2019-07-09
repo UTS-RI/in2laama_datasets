@@ -12,6 +12,13 @@ The calib.csv file provide the extrinsic calibration between the sensors:
 - Translation (p\_c)
 - A lidar point is reprojected in imu frame via x\_i = R\_c * x\_l + p\_c
 
+## Reference
+
+Please cite the following paper if this dataset is use in academic work
+
+Cedric Le Gentil, Teresa Vidal-Calleja, Shoudong Huang (2019). IN2LAAMA: INertial Lidar Localisation Autocalibration And MApping. arXiv:1905.09517
+
+
 ## Copyright
 
 Datasets on this page are copyright by us and published under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/). This means that you must attribute the work in the manner specified by the authors, you may not use this work for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license.
