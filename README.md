@@ -16,7 +16,19 @@ The calib.csv file provide the extrinsic calibration between the sensors:
 
 Please cite the following paper if this dataset is use in academic work
 
-Cedric Le Gentil, Teresa Vidal-Calleja, Shoudong Huang (2019). IN2LAAMA: INertial Lidar Localisation Autocalibration And MApping. arXiv:1905.09517
+```bibtex
+@ARTICLE{9194310,
+  author={Le Gentil, Cedric and Vidal-Calleja, Teresa and Huang, Shoudong},
+  journal={IEEE Transactions on Robotics}, 
+  title={IN2LAAMA: Inertial Lidar Localization Autocalibration and Mapping}, 
+  year={2021},
+  volume={37},
+  number={1},
+  pages={275-290},
+  doi={10.1109/TRO.2020.3018641}}
+```
+[IEEE](https://ieeexplore.ieee.org/document/9194310)
+[Arxiv](https://arxiv.org/abs/1905.09517)
 
 
 ## Copyright
